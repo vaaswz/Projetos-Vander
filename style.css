@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif ;
+}
+
+li {
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+}
+
+header {
+    margin: 30px 0px 144px 70px
+}
+a{
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 28px;
+    margin: 0 20px 0 0;
+    cursor: pointer;
+    color: rgb(20, 93, 105);
+}
+.botao-login{
+    width: 130px;
+    height: 38px;
+    border-radius: 38px;
+    background:rgb(97, 211, 226) ;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(49, 93, 100);
+    transition: 0.8;
+}
+.botao-login:hover{
+    opacity: 0.8;
+}
