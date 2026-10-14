@@ -38,3 +38,21 @@ a{
 .botao-login:hover{
     opacity: 0.8;
 }
+.logodog{
+    width: 40%;
+    vertical-align: middle;
+}
+.texto{
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 5%;
+    text-align: left;
+}
+main{
+    text-align: center;
+}
+.botao-login{
+    width: ;
+    height: ;
+}
